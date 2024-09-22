@@ -12,6 +12,9 @@
 **BananaLAC Web-based Tools** :
 - Link : https://bananalac.github.io
 
+## Main languages & skills:
+[![My Skills](https://skillicons.dev/icons?i=github,js,html,css,nodejs,discord,discordjs,vscode)](https://skillicons.dev)
+
 ## Are you a cheater or a cheat script maker? Read this: ⚠
 With the mods that you make apparently for experience or fun, you give a big blow to the game, because your codes and mods (mods that include cheating through _memory hacking_) fall into the hands of people who suffer from **lack and confusion**. If you want to research the game, you will not gain anything by destroying it.<br>
 This game is made by a single person who does most of the development work including modeling, sound editing, coding and photoshop.
