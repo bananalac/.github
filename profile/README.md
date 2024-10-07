@@ -1,8 +1,10 @@
+# ⛔️ Currently we are closed!
+
 ## BananaLAC 🍌
 
 - Hello, this is the main page of **BananaLAC** Github page!
 - I'm **Kaveh** and i try to publish some cool tools for **LAC** and maybe **PolyField**!
-- Currently i am alone in this team but i'm looking for persons intrested in **LAC** !
+- Currently i am alone in this team but i'm looking for persons interested in **LAC** !
 
 ## Links ⚙
 
@@ -10,7 +12,7 @@
 - Google Play : https://play.google.com/store/apps/details?id=com.MA.LAC
 
 **BananaLAC Web-based Tools** :
-- Link : https://bananalac.github.io
+- Link : https://bananalac.github.io (offline)
 
 ## Main languages & skills:
 [![My Skills](https://skillicons.dev/icons?i=github,js,html,css,nodejs,discord,discordjs,vscode)](https://skillicons.dev)
